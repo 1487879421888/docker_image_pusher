@@ -4,3 +4,4 @@ python:alpine3.19
 calciumion/new-api:latest
 justsong/one-api:latest
 yidadaa/chatgpt-next-web
+pengzhile/fuclaude:latest
