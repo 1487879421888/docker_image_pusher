@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 calciumion/new-api:latest
 justsong/one-api:latest
+yidadaa/chatgpt-next-web
