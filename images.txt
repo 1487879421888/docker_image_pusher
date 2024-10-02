@@ -5,3 +5,4 @@ calciumion/new-api:latest
 justsong/one-api:latest
 yidadaa/chatgpt-next-web
 pengzhile/fuclaude:latest
+nianhua99/PandoraHelper
